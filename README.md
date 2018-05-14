@@ -3,9 +3,9 @@
 ## Objectives
 
 - Explain the benefits of branch workflow
-- Create feature branches
-- Merge feature branches
-- Resolve Merge Conflicts
+- Create branches
+- Merge branches
+- Resolve merge conflicts
 
 ## Notes
 
