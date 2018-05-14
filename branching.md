@@ -5,3 +5,5 @@ Here's a message from our third branch.
 Testing to merge.
 
 Writing something to conflict
+
+second merge conflict
