@@ -4,4 +4,4 @@ Here's a message from our third branch.
 
 Testing to merge.
 
-Writing something to conflict.
+Writing something to conflict
