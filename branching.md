@@ -6,4 +6,4 @@ Testing to merge.
 
 Writing something to conflict
 
-second merge conflict
+write something else here
