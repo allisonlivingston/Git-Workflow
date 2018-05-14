@@ -4,6 +4,8 @@
 
 - Explain the benefits of branch workflow
 - Create branches
+  * git checkout -b branch-name
+  * git checkout master
 - Merge branches
 - Resolve merge conflicts
 
